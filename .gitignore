@@ -1,0 +1,16 @@
+# Ignore log files
+*.log
+*log.txt
+
+# Ignore user-specific or backup files
+*.bak
+*.tmp
+*.swp
+Thumbs.db
+.DS_Store
+
+# Ignore Windows PowerShell specific
+*.ps1~*
+
+# Ignore CSVs with sensitive data (optional, if you want to exclude)
+# users.csv
