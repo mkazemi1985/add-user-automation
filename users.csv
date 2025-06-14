@@ -1,0 +1,6 @@
+FirstName,LastName,Username,OU,Group
+John,Smith,j.smith,IT,IT_Staff
+Emily,Jones,e.jones,HR,HR_Staff
+Mark,Taylor,m.taylor,Sales,Sales_Staff
+Lisa,Clark,l.clark,Finance,Finance_Staff
+Tom,Lee,t.lee,Marketing,Marketing_Staff
